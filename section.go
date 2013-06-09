@@ -1,4 +1,4 @@
-//author gonghh
+//modify by author gonghh
 //Copyright 2013 gonghh(screscent). Under the Apache License, Version 2.0.
 package config
 
