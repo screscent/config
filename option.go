@@ -1,3 +1,5 @@
+//modify by author gonghh
+//Copyright 2013 gonghh(screscent). Under the Apache License, Version 2.0.
 package config
 
 func (self *Config) AddOption(section string, option string, value string) bool {
